@@ -13,9 +13,8 @@
 
 #dog-button {
     cursor: pointer;
-    background-color: #1ECD97;
+    background-color: #FFD700;
     padding: 10px;
     margin: 20px;
     border-radius: 15%;
-    color: white;
 }

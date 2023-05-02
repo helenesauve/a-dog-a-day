@@ -19,7 +19,7 @@ let queryUrl = "https://api.giphy.com/v1/gifs/random?api_key=" + apiKey + "&tag=
       // After the data from the AJAX request comes back
       .then(function(response) {
          // Saving the image_original_url property
-         var imageUrl = response.data.images.original.url;
+         var imageUrl = response.data.images.downsized.url;
 
           // Creating and storing an image tag
           var dogImage = $("<img>");
