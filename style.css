@@ -1,0 +1,21 @@
+
+.page-title {
+    text-align: center;
+    padding: 40px;
+    font-size: 80px;
+    font-family: 'Henny Penny', cursive;
+}
+
+.main-content {
+    text-align: center;
+}
+
+
+#dog-button {
+    cursor: pointer;
+    background-color: #1ECD97;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 15%;
+    color: white;
+}
