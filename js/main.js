@@ -7,7 +7,7 @@ $("#dog-button").on("click", function() {
 
 // Storing our giphy API URL for a random dog image
 
-let queryUrl = "https://api.giphy.com/v1/gifs/random?api_key=" + apiKey + "&tag=dog&rating=pg";
+let queryUrl = "https://api.giphy.com/v1/gifs/random?api_key=VVJGxoGGiXTe23pXkNkLgloVVofxs3Dt&tag=dog&rating=pg";
 
 
   // Perfoming an AJAX GET request to our queryURL
