@@ -4,7 +4,10 @@
 
 A Dog A Day is a single page application that returns a random dog gif when the user clicks the button. It is intended to provide entertainment to anyone in need of a dog fix.
 
-The app isn't currently live but will likely be hosted on GitHub pages.
+The app looks like the below and is hosted on GitHub pages [here](https://helenesauve.github.io/a-dog-a-day/).
+
+![A Dog A Day](screenshot.png)
+
 
 # Tools
 
